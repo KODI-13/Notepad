@@ -1,4 +1,4 @@
-# Notepad using Tkinter GUI
+# Notepad Using Tkinter GUI
 This is a Notpad gui Which can perform operations as follows
 
 ![Screenshot 2024-06-14 193134](https://github.com/KODI-13/Notepad/assets/144531434/3cb31aa2-1a8e-44da-a783-2f9717ef2468)
